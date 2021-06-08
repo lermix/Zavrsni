@@ -1,0 +1,80 @@
+
+
+Date:2021-04-03 10:03:55,445
+Thread:[1]
+Level:ERROR
+Logger:Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage.SyncfusionAddreferences_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vext_reference_manager\SyncfusionAssemblyReference\SyncfusionAssemblyReference.cs:line 269
+
+
+Date:2021-04-03 10:03:58,639
+Thread:[1]
+Level:ERROR
+Logger:Microsoft.Syncfusion_VSExtension_Troubleshooter.Syncfusion_VSExtension_TroubleshooterPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Microsoft.Syncfusion_VSExtension_Troubleshooter.Syncfusion_VSExtension_TroubleshooterPackage.queryStatusMenuCommand_BeforeQueryStatus(Object sender, EventArgs e)
+
+
+Date:2021-04-03 10:03:58,675
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209
+
+
+Date:2021-04-03 10:03:58,696
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209
+
+
+Date:2021-04-03 10:03:58,709
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209
+
+
+Date:2021-04-03 10:03:58,716
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209
+
+
+Date:2021-04-03 10:03:58,729
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209
+
+
+Date:2021-04-03 10:03:58,736
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage                         [(null)]
+Message:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Syncfusion.SyncfusionItemTemplates.SyncfusionItemTemplatesPackage.SyncfusionMenu_BeforeQueryStatus(Object sender, EventArgs e) in D:\Git\RP\vsext_winforms_templates\Src\SyncfusionItemTemplatesPackage.cs:line 209

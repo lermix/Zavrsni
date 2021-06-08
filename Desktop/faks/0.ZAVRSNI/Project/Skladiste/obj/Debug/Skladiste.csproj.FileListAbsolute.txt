@@ -1,0 +1,11 @@
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\bin\Debug\Skladiste.exe.config
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\bin\Debug\Skladiste.exe
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\bin\Debug\Skladiste.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.Form1.resources
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.Properties.Resources.resources
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.warehouseDisplay.resources
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.csproj.GenerateResource.cache
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.exe
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Skladiste\obj\Debug\Skladiste.TableDisplay.resources

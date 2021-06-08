@@ -1,0 +1,84 @@
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\JMessage.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\sharedObject_dll.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\JMessage.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\sharedObject_dll.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\MySql.Data.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Renci.SshNet.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Buffers.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Memory.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Zstandard.Net.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Google.Protobuf.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\MySql.Data.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Renci.SshNet.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Buffers.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Memory.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\DatabaseManagers.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Models.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\DatabaseManagers.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\DatabaseManagers.dll.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\TcpServer\bin\Debug\Models.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\DatabaseManagers.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Models.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\MySql.Data.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Renci.SshNet.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Buffers.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Memory.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Zstandard.Net.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\DatabaseManagers.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\DatabaseManagers.dll.config
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Models.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Google.Protobuf.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\JMessage.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\MySql.Data.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\Renci.SshNet.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\sharedObject_dll.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Buffers.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Memory.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\TcpServer\obj\Debug\TcpServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Models\bin\Debug\Models.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Models\bin\Debug\Models.pdb
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Models\obj\Debug\Models.dll
+C:\Users\Alen\Desktop\faks\0.ZAVRSNI\Project\Models\obj\Debug\Models.pdb
